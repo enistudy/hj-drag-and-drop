@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hj-drag-and-drop/static/css/main.d1b05096.chunk.css",
+    "main.js": "/hj-drag-and-drop/static/js/main.fcd2547d.chunk.js",
+    "main.js.map": "/hj-drag-and-drop/static/js/main.fcd2547d.chunk.js.map",
+    "runtime-main.js": "/hj-drag-and-drop/static/js/runtime-main.0a21bc29.js",
+    "runtime-main.js.map": "/hj-drag-and-drop/static/js/runtime-main.0a21bc29.js.map",
+    "static/js/2.ae69f4c5.chunk.js": "/hj-drag-and-drop/static/js/2.ae69f4c5.chunk.js",
+    "static/js/2.ae69f4c5.chunk.js.map": "/hj-drag-and-drop/static/js/2.ae69f4c5.chunk.js.map",
+    "index.html": "/hj-drag-and-drop/index.html",
+    "precache-manifest.b12c5c997b294a9cf3bf3746b99ec355.js": "/hj-drag-and-drop/precache-manifest.b12c5c997b294a9cf3bf3746b99ec355.js",
+    "service-worker.js": "/hj-drag-and-drop/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/hj-drag-and-drop/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ae69f4c5.chunk.js.LICENSE": "/hj-drag-and-drop/static/js/2.ae69f4c5.chunk.js.LICENSE",
+    "static/media/logo.svg": "/hj-drag-and-drop/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a21bc29.js",
+    "static/js/2.ae69f4c5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fcd2547d.chunk.js"
+  ]
+}
