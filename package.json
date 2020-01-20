@@ -4,9 +4,11 @@
   "description": "drag and drop",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode development",
+    "build": "webpack --mode production",
     "start": "webpack-dev-server",
-    "test": "jest"
+    "test": "jest",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -17,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/enistudy/hj-drag-and-drop/issues"
   },
-  "homepage": "https://github.com/enistudy/hj-drag-and-drop#readme",
+  "homepage": "https://enistudy.github.io/hj-drag-and-drop",
   "devDependencies": {
     "@babel/core": "^7.7.7",
     "@babel/plugin-proposal-class-properties": "^7.7.4",
@@ -37,6 +39,7 @@
     "css-loader": "^3.4.1",
     "dotenv-webpack": "^1.7.0",
     "file-loader": "^5.0.2",
+    "gh-pages": "^2.2.0",
     "html-webpack-plugin": "^3.2.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.9.0",
